@@ -8,6 +8,9 @@ contact information: h dot anthony1 at universityofgalway dot ie
 ### License type
 MIT; see LICENSE file for more information.
 
+### Citation
+If you find the code or results in this repository useful please cite our current preprint (doi.org/10.1101/2025.06.11.658021)
+
 ### Repository information
 
 This repository contains all the code needed to reproduce the results of our recent manuscript and will be archived after the manuscript is published.
@@ -18,7 +21,7 @@ Note: Each directory in this repository might have a deprecated/old code or file
 
 ## Information on directories and files in this repository
 
-### conda_envs
+### conda_envs/
 Contains all conda environments and Snakemake profiles
 
 atomic.yml -- used for any R code that requires scATOMIC to be run
@@ -29,10 +32,7 @@ slurm_executor_profile -- contains settings for using the SLURM executor plugin 
 
 slurm_profile -- contains the settings used specifically for the University of Galway HPC
 
-### images
-Contains preliminary plots for all the samples prior to integration 
-
-### manifests
+### manifests/
 This directory contains all the manifest files used to run the Snakemake pipeline.
 
 all_artificial_samples_{1..10}.tsv -- the mix ID's for different mixing experiment runs.
@@ -63,8 +63,10 @@ mix_patients{1..10}.txt -- list of mix ID's for sanekamke pipeline
 
 patient_ids.txt -- list of patients from EGAD00001008555, EGAD00001008584, EGAD00001008585, and PRJNA932556
 
-### markdown_files
+### markdown_files/
 parallelized_reporter.rmd -- Patient report generator
+supplementary_tables.rmd -- write out supplementary data files 
+
 
 ### mix_summary_stats
 The summary stats files for all mixes in the study
