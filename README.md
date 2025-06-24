@@ -1,8 +1,4 @@
 # Intratumoral heterogeneity in microsatellite instability status at single cell resolution
-<<<<<<< HEAD
-=======
-## Article DOI: Submitted to *Cancer Research*
->>>>>>> e416aae8835c2f7e9e8562b939e5b62b08b327ac
 
 ### Information about the author(s) of this code:
 Name(s): Harrison Anthony 
@@ -35,11 +31,7 @@ slurm_executor_profile -- contains settings for using the SLURM executor plugin 
 
 slurm_profile -- contains the settings used specifically for the University of Galway HPC
 
-<<<<<<< HEAD
 ### manifests/
-=======
-### manifests
->>>>>>> e416aae8835c2f7e9e8562b939e5b62b08b327ac
 This directory contains all the manifest files used to run the Snakemake pipeline.
 
 all_artificial_samples_{1..10}.tsv -- the mix ID's for different mixing experiment runs.
