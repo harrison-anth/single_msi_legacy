@@ -1,4 +1,4 @@
-# Intratumoral heterogeneity in microsatellite instability status at single cell resolution
+# Intratumoral heterogeneity in microsatellite instability at single cell resolution
 
 ### Information about the author(s) of this code:
 Name(s): Harrison Anthony 
@@ -14,7 +14,7 @@ If you find the code or results in this repository useful please cite our curren
 
 This repository contains all the code needed to reproduce the results of our recent manuscript and will be archived after the manuscript is published.
 Also included in this repository are the raw results (MSI scores, summary statistics, etc.).
-To access the distributable version of the SC-MSI pipeline visit https://github.com/harrison-anth/sc_msi
+To access the distributable version of the SINGLE-MSI pipeline visit https://github.com/harrison-anth/single_msi
 
 Note: Each directory in this repository might have a deprecated/old code or files folder. These, while useful for archival purposes and transparency, were not used in the final results for the manuscript.
 
