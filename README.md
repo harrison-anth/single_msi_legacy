@@ -5,8 +5,7 @@ Name(s): Harrison Anthony
 
 contact information: h dot anthony1 at universityofgalway dot ie
 
-Alternative and updated contact information can be found on my website 
-(harrison-anth.github.io).
+Alternative and updated contact information can be found on my [website](https://harrison-anth.github.io).
 
 ### License type
 MIT; see LICENSE file for more information.
