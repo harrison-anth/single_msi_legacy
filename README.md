@@ -1,18 +1,19 @@
-# Intratumoral heterogeneity in microsatellite instability at single cell resolution
+# Intratumoral heterogeneity in microsatellite instability at single-cell resolution
 
 ### Information about the author(s) of this code:
 Name(s): Harrison Anthony 
 
 contact information: h dot anthony1 at universityofgalway dot ie
 
-Alternative and up to date contact information can be found in my GitHub 
-profile.
+Alternative and updated contact information can be found on my GitHub 
+profile (https://github.com/harrison-anth).
 
 ### License type
 MIT; see LICENSE file for more information.
 
 ### Citation
-If you find the code or results in this repository useful please cite our current preprint (doi.org/10.1101/2025.06.11.658021)
+If you find the code or results in this repository useful please cite our publication 
+"Intratumoral heterogeneity in microsatellite instability at single-cell resolution" published in *iScience*.
 
 ### Repository information
 
